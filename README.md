@@ -1,0 +1,1 @@
+This is a project from The Odin Project meant to help practice HTML skills.
